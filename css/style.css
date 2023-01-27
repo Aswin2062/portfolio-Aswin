@@ -483,7 +483,8 @@ pre {
 
 .no-gutters {
   margin-right: 0;
-  margin-left: 0; }
+  margin-left: 0; 
+    justify-content: space-evenly;}
   .no-gutters > .col,
   .no-gutters > [class*="col-"] {
     padding-right: 0;
